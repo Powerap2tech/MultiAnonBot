@@ -8,3 +8,4 @@ youtube-search-python
 yt-dlp
 motor
 pillow>=4
+cv2.pyd
