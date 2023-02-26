@@ -1,4 +1,4 @@
-git+https://github.com/MKN-BOTZ/pyrogram
+git+https://github.com/itz-jeol/pyrogram
 Tgcrypto 
 aiohttp<=3.8.4
 telethon
@@ -6,7 +6,3 @@ pykeyboard
 youtube-search
 youtube-search-python
 yt-dlp
-motor
-Pillow==9.4.0
-opencv-python<=4.7.0.72
-python-doten==v1.0.0
