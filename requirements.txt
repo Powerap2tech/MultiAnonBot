@@ -1,9 +1,9 @@
 git+https://github.com/MKN-BOTZ/pyrogram
 Tgcrypto 
+aiohttp<=3.8.4
 telethon
 pykeyboard
 youtube-search
 youtube-search-python
 yt-dlp
-aiohttp
 motor
