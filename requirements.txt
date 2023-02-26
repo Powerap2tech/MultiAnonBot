@@ -7,4 +7,4 @@ youtube-search
 youtube-search-python
 yt-dlp
 motor
-PIL
+pillow>=4
